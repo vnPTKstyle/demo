@@ -7,7 +7,7 @@ if(isset($_POST['submit'])){
     {
         $txt=$_POST['txt'];
     }
-    //tu index di vao cac duong da
+    //chào người anh em thiện lành .....
 }
 //tu index di vao cac duong da
 include ('Views/form.php');
