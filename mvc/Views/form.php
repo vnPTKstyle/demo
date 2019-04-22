@@ -9,6 +9,7 @@ if(isset($loi)){
     {
     echo $txt;
     }
+    ////fix lỗi đường dẫn
 ?>
 
 <!DOCTYPE html>
